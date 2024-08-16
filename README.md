@@ -42,7 +42,7 @@ Country
 Funds_raised :
 Funds raised by the company (in Millions $)
 
-Please refer to the [Layout Analysis Project](https://github.com/omoniyidamilola/Layoffs-SQL-Project/blob/main/Data%20Cleaning%20in%20SQL.sql).
+Please refer to the [Layout Analysis Project](https://github.com/omoniyidamilola/Layoffs-SQL-Project/blob/main/Layoff_Query_Solution.md.docx).
 
 ## Possible Causes of Layoffs
 
